@@ -1,0 +1,17 @@
+{
+    "name": "dataalarm/judge",
+    "type": "plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pidong",
+            "email": "1163765691@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DataAlarm\\": "src/"
+        }
+    }
+}
